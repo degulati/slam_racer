@@ -11,5 +11,5 @@ Adapting [F1TENTH system](https://f1tenth.readthedocs.io/en/latest/index.html) f
 * Jetson Xavier
 * SICK LiDAR TIM 571 Series
 * Intel Realsense Camera D455
-* Razor 9DOF IMU
+* SparkFun OpenLog Artemis Razor 9DOF IMU
 
